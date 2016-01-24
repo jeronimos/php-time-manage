@@ -3,6 +3,18 @@ Manage time periods, occurrences after events (work hours after event), schedule
 
 Please, note that package stability is dev. 
 
+###Composer installation
+
+```json
+    "require": {  
+        "jeronimos/php-time-manage": "@dev"  
+    }  
+```
+
+or you may execute
+
+`composer require jeronimos/php-time-manage`
+
 ###Occurrences module
 
 It allow to calculate time periods according to work schedule. 
